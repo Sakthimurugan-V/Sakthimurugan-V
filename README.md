@@ -1,204 +1,267 @@
-# 👋 Hello, I'm Sakthimurugan V!
+👋 Hello, I'm Sakthimurugan V!
 
-### Electronics & Communication Engineer | Embedded Systems | Firmware | IoT
+⚡ Electronics & Communication Engineer | Embedded Systems | VLSI / RTL Design
 
-🎓 B.E. Electronics & Communication Engineering — CGPA: 8.5  
-💻 Embedded C & C++ Developer  
-🔧 Passionate about Embedded Systems, Firmware & IoT  
-🚀 Hands-on experience with ESP32, STM32, Raspberry Pi & Arduino  
-📡 Experienced with UART, SPI, I²C & CAN communication protocols  
-🧪 Interested in Hardware Testing, Debugging & Embedded System Design  
+An enthusiastic, proactive and lifelong learner with a solid foundation in Embedded Systems and VLSI. I enjoy building hardware-software solutions, working with microcontrollers and communication protocols, and designing RTL systems using Verilog HDL.
 
----
+“Precision in logic creates perfection in performance.”
 
-## 🧑‍💻 About Me
+🧠 About Me
 
-I'm an Electronics and Communication Engineering graduate with hands-on
-experience in Embedded C firmware development, real-time sensor interfacing,
-microcontroller programming, hardware testing and debugging.
+🎓 B.E. Electronics and Communication Engineering
 
-I'm passionate about building practical embedded and IoT solutions that
-combine hardware, firmware, sensors and communication technologies.
+🔌 Interested in Embedded Systems, Firmware Development and IoT
 
-🎯 Currently interested in:
+💾 Interested in VLSI, RTL Design, FPGA and Digital Design
 
-- Embedded Software / Firmware Development
-- Microcontroller Programming
-- IoT & Connected Devices
-- Embedded Hardware Testing
-- Sensor Interfacing
-- Communication Protocols
-- RTOS
-- Embedded System Design
+🧪 Hands-on experience in embedded hardware testing, debugging and validation
 
----
+🚀 Passionate about learning, adapting and building practical engineering solutions
 
-## 🛠️ Skills & Technologies
+🛠️ Technical Skills
 
-### 💻 Programming Languages
+🔌 Embedded Systems
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+C C++ Python (Basics) RTOS UART SPI I²C CAN
 
-### 🔌 Microcontrollers & Boards
+Microcontrollers, Sensors & Actuators
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+Firmware Development
 
-`8051` • `8085` • `8086` • `Raspberry Pi Pico`
+Testing & Debugging
 
-### 📡 Communication Protocols
+Embedded Systems & IoT
 
-`UART` • `SPI` • `I²C` • `CAN`
+Hardware-Software Integration
 
-### ⚙️ Embedded Skills
+💾 VLSI / RTL
 
-`Embedded C` • `Firmware Development` • `RTOS`  
-`Sensor Interfacing` • `Hardware Testing` • `Debugging`  
-`ADC` • `GPIO` • `IoT`
+Verilog HDL Digital Electronics FPGA ASIC RTL Design UVM
 
-### 🧰 Tools & IDEs
+AMBA: APB, AHB, AXI
 
-`Arduino IDE` • `STM32CubeIDE` • `Keil µVision`  
-`Thonny IDE` • `Proteus 8` • `Visual Studio Code`
+Simulation & Synthesis
 
----
+Digital System Verification
 
-## 🚀 Featured Projects
+💬 Soft Skills
 
-### 🏥 IoT-Based Smart Patient Health Monitoring System
+Communication Leadership Teamwork Adaptability Time Management Quick Learner Active Listener
 
-An IoT-based healthcare monitoring system designed to continuously monitor
-vital health parameters and provide real-time health information for early
-detection of abnormalities and remote patient monitoring.
+💻 Tools & Software
 
-**Technologies:**
+🔌 Embedded
 
-`ESP32` `Arduino IDE` `Blynk` `ECG Sensor`  
-`Heart Rate Sensor` `DSB8120` `MPU6050` `OLED`
 
-**Key Work:**
 
-- Implemented sensor interfacing using ADC and GPIO.
-- Developed real-time health parameter monitoring.
-- Integrated multiple sensors with ESP32.
-- Implemented IoT-based remote monitoring using Blynk.
 
----
 
-### 🌱 IoT-Based Smart Agriculture System
 
-An IoT-based smart agriculture solution for real-time monitoring and
-automatic irrigation.
 
-**Technologies:**
+💾 VLSI
 
-`ESP32` `Arduino IDE` `Blynk IoT` `OLED`  
-`Soil Moisture Sensor` `DHT11` `Ultrasonic Sensor`  
-`Flow Sensor` `Float Sensor` `Relay` `Solenoid Valve`
 
-**Key Features:**
 
-- Real-time soil moisture monitoring
-- Water-level monitoring
-- Flow-rate monitoring
-- Temperature & humidity monitoring
-- Ambient-light monitoring
-- Automatic irrigation
-- Remote IoT monitoring
 
----
 
-### 🦯 IoT-Based Smart Guide System for Visually Impaired
 
-An assistive IoT system designed to support visually impaired individuals
-with navigation, obstacle detection, GPS tracking and voice feedback.
 
-**Technologies:**
+💼 Internships
 
-`ESP32` `Raspberry Pi Zero 2W` `Raspberry Pi Camera V2`  
-`SIM800L` `NEO-6M GPS` `ToF Sensor` `MPU6050`
+🔧 Hardware Testing — VI Microsystems, Chennai
 
-**Key Features:**
+January 2026 – April 2026
 
-- Camera-based vision
-- Obstacle detection
-- GPS tracking
-- Voice feedback
-- Sensor-based navigation assistance
-- IoT-based assistive technology
+Embedded hardware testing, debugging, automation and validation.
 
----
+Tested and programmed systems using 8051, 8085, 8086, Arduino, ESP32, Raspberry Pi and Pico.
 
-## 💼 Internship Experience
+Validated IoT boards, embedded hardware, sensors and peripheral interfaces.
 
-### 🔧 Hardware Testing Intern
-**VI Microsystems Pvt. Ltd., Chennai**  
-`Jan 2026 – Apr 2026`
+💻 C Programming — CodeAlpha
 
-- Hands-on experience in embedded hardware testing and debugging.
-- Tested and programmed systems using 8051, 8085, 8086, Arduino, ESP32,
-  Raspberry Pi and Pico.
-- Validated IoT boards, embedded hardware, sensors and peripheral interfaces.
-- Worked on testing, automation and validation of embedded systems.
+October 2025 – November 2025 | Virtual
 
-### ⚡ Embedded Systems Intern
-**National Small Industries Corporation, Chennai**  
-`July 2025 – Aug 2025`
+Worked with core and advanced C programming concepts.
 
-- Gained practical exposure to embedded systems and microcontroller-based
-  development.
-- Worked with embedded hardware and development environments.
+Practiced pointers, arrays, strings, structures, file handling and dynamic memory allocation.
 
----
+Developed console-based applications using modular programming and problem-solving techniques.
 
-## 📜 Certifications
+🔌 Embedded Systems — NSIC, Chennai
 
-- Embedded Systems Design — NPTEL
-- System Design through Verilog — NPTEL
-- Introduction to Embedded Systems and Internet of Things — Coursera
-- Embedded Systems Using C — EDUCBA
+July 2025 – August 2025
 
----
+Sensor interfacing using ADC and GPIO.
 
-## 🎓 Education
+Worked with UART, SPI and I²C communication.
 
-**Bachelor of Engineering — Electronics & Communication Engineering**  
-Adhiparasakthi Engineering College, Melmaruvathur  
-`2022 – 2026` | **CGPA: 8.5**
+Basic embedded debugging and troubleshooting.
 
-**Higher Secondary (XII)**  
-SRI International Matric Hr. Sec. School, Birudur  
-`2022` | **85.5%**
+🤖 Embedded Systems — RETECH Solutions
 
-**Secondary (X)**  
-SRI International Matric Hr. Sec. School, Birudur  
-`2020` | **91.4%`
+August 2024
 
----
+Worked with microcontrollers, sensors and interfacing techniques.
 
-## 🔥 GitHub Streak
+Developed a Traffic Light Controller using Arduino Uno.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sakthimurugan-V&theme=dark)
+🚀 Featured Projects
 
----
+🦯 Smart Guide System for Visually Impaired
 
-## 🤝 Connect With Me
+Assistive navigation system developed using Raspberry Pi Zero 2W, with sensor interfacing and embedded communication.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sakthimurugan-v-9572382a2)
+🌱 IoT Smart Agriculture System
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakthimurugan-V)
+Monitored soil moisture, temperature and humidity.
 
----
+Used ESP32 for real-time sensor data collection.
 
-## 👀 Profile Visitors
+Implemented automated irrigation and improved water management.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sakthimurugan-V&label=Profile%20Views&color=blue&style=for-the-badge)
+🧪 Smart Soil Nutrition Monitoring System
 
----
+Monitored NPK, moisture, temperature and pH.
 
-### 💡 "Building the future, one embedded system at a time."
+Used sensors and ESP32 for real-time data collection.
 
-⭐ Feel free to explore my repositories and connect with me!
+Focused on efficient fertilizer management and soil health monitoring.
+
+🤖 Colour Based Product Sorting Robot
+
+Camera-based product colour detection.
+
+Automated product classification.
+
+Sorting mechanism controlled using Raspberry Pi Pico W.
+
+❤️ Smart Patient Health Monitoring System
+
+Developed using ESP32.
+
+Integrated vital-sign sensors using I²C, 1-Wire and Analog interfaces.
+
+Performed embedded debugging, testing and hardware validation.
+
+➕ Parameterized 4-bit ALU using Verilog
+
+Designed a parameterized 4-bit ALU using Verilog HDL.
+
+Verified arithmetic and logical operations using testbenches and simulation.
+
+Synthesized and implemented on an AMD Artix-7 FPGA using Vivado.
+
+🚦 Traffic Light Controller — FSM
+
+Designed an FSM-based traffic light controller using Verilog HDL.
+
+Implemented synchronous sequential RTL.
+
+Synthesized and validated on a Xilinx Spartan-6 FPGA using Xilinx ISE.
+
+📚 Education
+
+Qualification
+
+Institution
+
+Year
+
+Result
+
+B.E. ECE
+
+Adhiparasakthi Engineering College, Melmaruvathur
+
+2022–2026
+
+CGPA: 8.5
+
+HSC
+
+SRI International Matriculation HSS, Birudur
+
+2021–2022
+
+85.5%
+
+SSLC
+
+SRI International Matriculation HSS, Birudur
+
+2019–2020
+
+91.4%
+
+🏅 Certifications
+
+🥇 System Design Through Verilog — NPTEL — Elite + Silver Medal
+
+🥇 Embedded Systems Design — NPTEL — Elite Medal
+
+📜 Embedded Systems Using C — EDUCBA, Coursera — 86.74%
+
+📜 Introduction to Internet of Things and Embedded Systems — University of California, Coursera — 99%
+
+📜 Softskill Training on Interview Readiness — NPTEL
+
+📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sakthimurugan-V&show_icons=true&theme=dark&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthimurugan-V&layout=compact&theme=dark&hide_border=true" height="170"/>
+
+</div>
+
+🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sakthimurugan-V&theme=dark&hide_border=true" />
+
+</div>
+
+🐍 Contribution Activity
+
+<div align="center">
+
+
+
+</div>
+
+📄 Resume
+
+I maintain separate resumes focused on Embedded Systems and VLSI / RTL Design.
+
+🔌 Embedded Systems — Embedded C, IoT, Arduino, ESP32, Raspberry Pi
+
+💾 VLSI / RTL Design — Verilog HDL, FPGA, RTL Design, FSM, Digital Design
+
+🤝 Connect With Me
+
+<div align="center">
+
+
+
+
+
+</div>
+
+👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sakthimurugan-V&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+<div align="center">
+
+⚡ Embedded Systems • VLSI • RTL Design • FPGA • IoT
+
+Thanks for visiting my profile! 🚀
+
+</div>
