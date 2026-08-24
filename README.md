@@ -181,9 +181,9 @@ SRI International Matric Hr. Sec. School, Birudur
 
 ## 📊 GitHub Stats
 
-![Sakthimurugan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakthimurugan-V&show_icons=true&theme=dark)
+[![Sakthimurugan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakthimurugan-V&show_icons=true&theme=dark)](https://github.com/Sakthimurugan-V)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthimurugan-V&layout=compact&theme=dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthimurugan-V&layout=compact&theme=dark)](https://github.com/Sakthimurugan-V)
 
 ---
 
