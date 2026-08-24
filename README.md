@@ -1,30 +1,78 @@
-👋 Hello, I'm Sakthimurugan V!
+<div align="center">
 
-⚡ Electronics & Communication Engineer | Embedded Systems | VLSI / RTL Design
+👋 Hi, I'm Sakthimurugan V
 
-An enthusiastic, proactive and lifelong learner with a solid foundation in Embedded Systems and VLSI. I enjoy building hardware-software solutions, working with microcontrollers and communication protocols, and designing RTL systems using Verilog HDL.
+⚡ Electronics & Communication Engineer
+
+Embedded Systems • VLSI • RTL Design • FPGA • IoT
+
+<p>
+  <a href="https://www.linkedin.com/in/sakthimurugan-v/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:sakthimuruganvenkat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+👨‍💻 About Me
+
+An enthusiastic, proactive and lifelong learner with a solid foundation in Embedded Systems and VLSI.
+
+🔌 Embedded Systems & IoT
+
+💾 VLSI / RTL Design
+
+🧩 FPGA & Digital Design
+
+🛠️ Hardware Testing & Debugging
+
+🚀 Firmware Development
+
+🤝 Collaborative & adaptable learner
 
 “Precision in logic creates perfection in performance.”
 
-🧠 About Me
+</td>
+<td width="50%" valign="top">
 
-🎓 B.E. Electronics and Communication Engineering
+🎓 Education
 
-🔌 Interested in Embedded Systems, Firmware Development and IoT
+B.E. Electronics & Communication Engineering
+Adhiparasakthi Engineering College, Melmaruvathur
+2022 – 2026 • CGPA: 8.5
 
-💾 Interested in VLSI, RTL Design, FPGA and Digital Design
+HSC
+SRI International Matriculation HSS, Birudur
+2021 – 2022 • 85.5%
 
-🧪 Hands-on experience in embedded hardware testing, debugging and validation
+SSLC
+SRI International Matriculation HSS, Birudur
+2019 – 2020 • 91.4%
 
-🚀 Passionate about learning, adapting and building practical engineering solutions
+</td>
+</tr>
 
-🛠️ Technical Skills
+<tr>
+<td width="50%" valign="top">
 
-🔌 Embedded Systems
+🔌 Embedded Skills
 
-C C++ Python (Basics) RTOS UART SPI I²C CAN
+C C++ Python
 
-Microcontrollers, Sensors & Actuators
+RTOS
+
+UART • SPI • I²C • CAN
+
+Microcontrollers
+
+Sensors & Actuators
 
 Firmware Development
 
@@ -34,31 +82,36 @@ Embedded Systems & IoT
 
 Hardware-Software Integration
 
-💾 VLSI / RTL
+</td>
+<td width="50%" valign="top">
 
-Verilog HDL Digital Electronics FPGA ASIC RTL Design UVM
+💾 VLSI / RTL Skills
 
-AMBA: APB, AHB, AXI
+Verilog HDL FPGA ASIC
+
+RTL Design
+
+Digital Electronics
 
 Simulation & Synthesis
 
+AMBA: APB • AHB • AXI
+
+UVM
+
+FPGA Implementation
+
 Digital System Verification
 
-💬 Soft Skills
+</td>
+</tr>
 
-Communication Leadership Teamwork Adaptability Time Management Quick Learner Active Listener
+<tr>
+<td width="50%" valign="top">
 
-💻 Tools & Software
+🛠️ Tools & Software
 
-🔌 Embedded
-
-
-
-
-
-
-
-💾 VLSI
+Embedded
 
 
 
@@ -66,202 +119,213 @@ Communication Leadership Teamwork Adaptability Time Management Quick Learner Act
 
 
 
-💼 Internships
+</td>
+<td width="50%" valign="top">
 
-🔧 Hardware Testing — VI Microsystems, Chennai
+💻 VLSI Tools
 
-January 2026 – April 2026
 
-Embedded hardware testing, debugging, automation and validation.
 
-Tested and programmed systems using 8051, 8085, 8086, Arduino, ESP32, Raspberry Pi and Pico.
 
-Validated IoT boards, embedded hardware, sensors and peripheral interfaces.
 
-💻 C Programming — CodeAlpha
 
-October 2025 – November 2025 | Virtual
 
-Worked with core and advanced C programming concepts.
+</td>
+</tr>
 
-Practiced pointers, arrays, strings, structures, file handling and dynamic memory allocation.
+<tr>
+<td width="50%" valign="top">
 
-Developed console-based applications using modular programming and problem-solving techniques.
+💼 Experience
 
-🔌 Embedded Systems — NSIC, Chennai
+Hardware Testing — VI Microsystems, Chennai
+Jan 2026 – Apr 2026
 
-July 2025 – August 2025
+Embedded hardware testing & validation
 
-Sensor interfacing using ADC and GPIO.
+Debugging and automation
 
-Worked with UART, SPI and I²C communication.
+Worked with 8051, 8085, 8086, Arduino, ESP32, Raspberry Pi & Pico
 
-Basic embedded debugging and troubleshooting.
+Validated sensors and peripheral interfaces
 
-🤖 Embedded Systems — RETECH Solutions
+C Programming — CodeAlpha
+Oct 2025 – Nov 2025
 
-August 2024
+Core & advanced C programming
 
-Worked with microcontrollers, sensors and interfacing techniques.
+Pointers, arrays, structures and file handling
 
-Developed a Traffic Light Controller using Arduino Uno.
+Console applications and modular programming
+
+</td>
+<td width="50%" valign="top">
+
+💼 Experience
+
+Embedded Systems — NSIC, Chennai
+Jul 2025 – Aug 2025
+
+ADC & GPIO interfacing
+
+UART, SPI & I²C communication
+
+Embedded debugging
+
+Embedded Systems — RETECH Solutions
+Aug 2024
+
+Microcontrollers and sensors
+
+Interfacing techniques
+
+Traffic Light Controller using Arduino Uno
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 🚀 Featured Projects
 
-🦯 Smart Guide System for Visually Impaired
+🦯 Smart Guide System
 
-Assistive navigation system developed using Raspberry Pi Zero 2W, with sensor interfacing and embedded communication.
+Assistive navigation system using Raspberry Pi Zero 2W, sensor interfacing and embedded communication.
 
-🌱 IoT Smart Agriculture System
+🌱 IoT Smart Agriculture
 
-Monitored soil moisture, temperature and humidity.
+ESP32-based monitoring of soil moisture, temperature and humidity with automated irrigation.
 
-Used ESP32 for real-time sensor data collection.
+🧪 Smart Soil Nutrition
 
-Implemented automated irrigation and improved water management.
+IoT system monitoring NPK, moisture, temperature and pH using ESP32.
 
-🧪 Smart Soil Nutrition Monitoring System
+🤖 Colour Based Sorting Robot
 
-Monitored NPK, moisture, temperature and pH.
+Camera-based colour detection with automated sorting using Raspberry Pi Pico W.
 
-Used sensors and ESP32 for real-time data collection.
+</td>
+<td width="50%" valign="top">
 
-Focused on efficient fertilizer management and soil health monitoring.
+🚀 VLSI Projects
 
-🤖 Colour Based Product Sorting Robot
+➕ Parameterized 4-bit ALU
 
-Camera-based product colour detection.
+Verilog HDL RTL design
 
-Automated product classification.
+Arithmetic & logical operations
 
-Sorting mechanism controlled using Raspberry Pi Pico W.
+Testbench-based verification
 
-❤️ Smart Patient Health Monitoring System
-
-Developed using ESP32.
-
-Integrated vital-sign sensors using I²C, 1-Wire and Analog interfaces.
-
-Performed embedded debugging, testing and hardware validation.
-
-➕ Parameterized 4-bit ALU using Verilog
-
-Designed a parameterized 4-bit ALU using Verilog HDL.
-
-Verified arithmetic and logical operations using testbenches and simulation.
-
-Synthesized and implemented on an AMD Artix-7 FPGA using Vivado.
+Implemented on AMD Artix-7 FPGA using Vivado
 
 🚦 Traffic Light Controller — FSM
 
-Designed an FSM-based traffic light controller using Verilog HDL.
+FSM-based Verilog RTL
 
-Implemented synchronous sequential RTL.
+Synchronous sequential logic
 
-Synthesized and validated on a Xilinx Spartan-6 FPGA using Xilinx ISE.
+Simulation and verification
 
-📚 Education
+Implemented on Xilinx Spartan-6 using ISE
 
-Qualification
+❤️ Smart Patient Health Monitoring
 
-Institution
+ESP32-based system using I²C, 1-Wire and Analog interfaces for vital-sign monitoring.
 
-Year
+</td>
+</tr>
 
-Result
-
-B.E. ECE
-
-Adhiparasakthi Engineering College, Melmaruvathur
-
-2022–2026
-
-CGPA: 8.5
-
-HSC
-
-SRI International Matriculation HSS, Birudur
-
-2021–2022
-
-85.5%
-
-SSLC
-
-SRI International Matriculation HSS, Birudur
-
-2019–2020
-
-91.4%
+<tr>
+<td width="50%" valign="top">
 
 🏅 Certifications
 
-🥇 System Design Through Verilog — NPTEL — Elite + Silver Medal
+🥇 System Design Through Verilog — NPTEL
+Elite + Silver Medal
 
-🥇 Embedded Systems Design — NPTEL — Elite Medal
+🥇 Embedded Systems Design — NPTEL
+Elite Medal
 
-📜 Embedded Systems Using C — EDUCBA, Coursera — 86.74%
+📜 Embedded Systems Using C — EDUCBA, Coursera
+86.74%
 
-📜 Introduction to Internet of Things and Embedded Systems — University of California, Coursera — 99%
+📜 IoT and Embedded Systems — University of California, Coursera
+99%
 
-📜 Softskill Training on Interview Readiness — NPTEL
+📜 Interview Readiness — NPTEL
 
-📊 GitHub Stats
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+💬 Soft Skills
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sakthimurugan-V&show_icons=true&theme=dark&hide_border=true" height="170"/>
+Communication
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthimurugan-V&layout=compact&theme=dark&hide_border=true" height="170"/>
+Leadership
 
-</div>
+Teamwork
 
-🔥 GitHub Streak
+Adaptability
 
-<div align="center">
+Time Management
 
-<img src="https://streak-stats.demolab.com?user=Sakthimurugan-V&theme=dark&hide_border=true" />
+Quick Learner
 
-</div>
+Active Listener
 
-🐍 Contribution Activity
+Lifelong Learner
 
-<div align="center">
-
-
-
-</div>
+<br>
 
 📄 Resume
 
-I maintain separate resumes focused on Embedded Systems and VLSI / RTL Design.
+Embedded Systems Resume
+Embedded C • IoT • Arduino • ESP32 • Raspberry Pi
 
-🔌 Embedded Systems — Embedded C, IoT, Arduino, ESP32, Raspberry Pi
+VLSI / RTL Resume
+Verilog HDL • FPGA • RTL • FSM • Digital Design
 
-💾 VLSI / RTL Design — Verilog HDL, FPGA, RTL Design, FSM, Digital Design
-
-🤝 Connect With Me
+</td>
+</tr>
+</table>
 
 <div align="center">
 
+📊 GitHub Statistics
 
+<img src="https://github-readme-stats.vercel.app/api?username=Sakthimurugan-V&show_icons=true&theme=dark&hide_border=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthimurugan-V&layout=compact&theme=dark&hide_border=true" height="165">
 
+<br><br>
 
+<img src="https://streak-stats.demolab.com?user=Sakthimurugan-V&theme=dark&hide_border=true">
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Sakthimurugan-V&label=Profile%20Views&style=for-the-badge">
 
 </div>
 
-👀 Profile Visitors
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Sakthimurugan-V&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+🤝 Let's Connect
 
-</div>
+<a href="https://www.linkedin.com/in/sakthimurugan-v/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+&nbsp;
+<a href="https://github.com/Sakthimurugan-V">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:sakthimuruganvenkat@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<div align="center">
+<br><br>
 
-⚡ Embedded Systems • VLSI • RTL Design • FPGA • IoT
-
-Thanks for visiting my profile! 🚀
+⚡ Embedded Systems • VLSI • RTL Design • FPGA • IoT ⚡
 
 </div>
