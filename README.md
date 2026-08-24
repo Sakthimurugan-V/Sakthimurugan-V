@@ -1,80 +1,85 @@
 <div align="center">
 
-# SAKTHIMURUGAN V
-### Electronics & Communication Engineer
-**Embedded Systems · Firmware · VLSI · RTL Design · FPGA**
+# Hi, I'm Sakthimurugan V 👋
+### Electronics & Communication Engineer | Embedded Systems · VLSI · RTL Design
 
 <p>
-<a href="https://github.com/Sakthimurugan-V">
-<img src="https://img.shields.io/badge/GitHub-Sakthimurugan--V-181717?style=for-the-badge&logo=github">
-</a>
 <a href="https://www.linkedin.com/in/sakthimurugan-v/">
-<img src="https://img.shields.io/badge/LinkedIn-Sakthimurugan%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:sakthimuruganvenkat@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="tel:+919789378758">
+<img src="https://img.shields.io/badge/Phone-+91_9789378758-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 </p>
 
-*Precision in logic creates perfection in performance.*
+*"Precision in logic creates perfection in performance."*
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
+## 📘 About Me
 
-### 01 — ENGINEERING PROFILE
-
-Electronics & Communication Engineer with a foundation in Embedded Systems and VLSI, focused on practical hardware-software integration, firmware development, embedded debugging, RTL design and FPGA implementation.
-
-**Core interests**
-- Embedded Systems & Firmware
-- Microcontrollers & Peripheral Interfaces
-- IoT & Sensor Interfacing
-- Verilog HDL & RTL Design
-- FPGA / Digital Design
-- Simulation, Synthesis & Verification
-
-</td>
-<td width="45%" valign="top">
-
-### 02 — EDUCATION
-
-**B.E. ECE**
-Adhiparasakthi Engineering College, Melmaruvathur
-2022 – 2026 · CGPA: 8.5
-
-**HSC**
-SRI International Matriculation HSS, Birudur
-2021 – 2022 · 85.5%
-
-**SSLC**
-SRI International Matriculation HSS, Birudur
-2019 – 2020 · 91.4%
-
-</td>
-</tr>
-</table>
+An enthusiastic, proactive, and lifelong learner with a solid foundation in **Embedded Systems** and **VLSI**. I thrive in collaborative environments and continuously seek to learn and adapt. Not just looking for a job — ready to learn, grow, adapt, and make an impact.
 
 ---
 
-### 03 — TECHNICAL STACK
+## 📚 Education
+
+| Degree | Institution | Duration | Score |
+|---|---|---|---|
+| B.E. Electronics & Communication Engineering | Adhiparasakthi Engineering College, Melmaruvathur | 2022 – 2026 | CGPA: 8.5 |
+| HSC | SRI International Matriculation HSS, Birudur | 2021 – 2022 | 85.5% |
+| SSLC | SRI International Matriculation HSS, Birudur | 2019 – 2020 | 91.4% |
+
+---
+
+## 🧠 Skills
 
 <table>
+<tr><td><b>Category</b></td><td><b>Skills</b></td></tr>
+
 <tr>
-<td width="18%"><b>Languages</b></td>
-<td width="82%">
+<td><b>Languages</b></td>
+<td>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Verilog%20HDL-2E8B57?style=for-the-badge">
 </td>
 </tr>
+
 <tr>
-<td><b>Embedded Platforms</b></td>
+<td><b>Embedded Systems</b></td>
+<td>
+<img src="https://img.shields.io/badge/RTOS-4B5563?style=for-the-badge">
+<img src="https://img.shields.io/badge/UART-4B5563?style=for-the-badge">
+<img src="https://img.shields.io/badge/SPI-4B5563?style=for-the-badge">
+<img src="https://img.shields.io/badge/I²C-4B5563?style=for-the-badge">
+<img src="https://img.shields.io/badge/CAN-4B5563?style=for-the-badge">
+<img src="https://img.shields.io/badge/Microcontrollers-4B5563?style=for-the-badge">
+<img src="https://img.shields.io/badge/Firmware%20Development-4B5563?style=for-the-badge">
+<img src="https://img.shields.io/badge/IoT-4B5563?style=for-the-badge">
+</td>
+</tr>
+
+<tr>
+<td><b>VLSI / RTL</b></td>
+<td>
+<img src="https://img.shields.io/badge/RTL%20Design-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/FPGA-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/ASIC-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/AMBA%20(APB/AHB/AXI)-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/UVM-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/Simulation%20%26%20Synthesis-8A2BE2?style=for-the-badge">
+</td>
+</tr>
+
+<tr>
+<td><b>Hardware Platforms</b></td>
 <td>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
@@ -82,155 +87,120 @@ SRI International Matriculation HSS, Birudur
 <img src="https://img.shields.io/badge/8051%20%2F%208085%20%2F%208086-333333?style=for-the-badge">
 </td>
 </tr>
+
 <tr>
-<td><b>Communication Protocols</b></td>
+<td><b>Tools & Software</b></td>
 <td>
-<img src="https://img.shields.io/badge/UART-4B5563?style=for-the-badge">
-<img src="https://img.shields.io/badge/SPI-4B5563?style=for-the-badge">
-<img src="https://img.shields.io/badge/I²C-4B5563?style=for-the-badge">
-<img src="https://img.shields.io/badge/CAN-4B5563?style=for-the-badge">
-</td>
-</tr>
-<tr>
-<td><b>VLSI / RTL & FPGA</b></td>
-<td>
-<img src="https://img.shields.io/badge/RTL%20Design-8A2BE2?style=for-the-badge">
-<img src="https://img.shields.io/badge/FPGA-8A2BE2?style=for-the-badge">
-<img src="https://img.shields.io/badge/ASIC-8A2BE2?style=for-the-badge">
-<img src="https://img.shields.io/badge/Simulation%20%26%20Synthesis-8A2BE2?style=for-the-badge">
-</td>
-</tr>
-<tr>
-<td><b>Verification & Bus Architecture</b></td>
-<td>
-<img src="https://img.shields.io/badge/APB-FF8C00?style=for-the-badge">
-<img src="https://img.shields.io/badge/AHB-FF8C00?style=for-the-badge">
-<img src="https://img.shields.io/badge/AXI-FF8C00?style=for-the-badge">
-<img src="https://img.shields.io/badge/UVM-FF8C00?style=for-the-badge">
-</td>
-</tr>
-<tr>
-<td><b>Design & Debug Tools</b></td>
-<td>
+<img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Keil%20uVision-1E90FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Proteus-1E90FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Thonny%20IDE-1E90FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Xilinx%20Vivado-C8102E?style=for-the-badge">
 <img src="https://img.shields.io/badge/Xilinx%20ISE-C8102E?style=for-the-badge">
 <img src="https://img.shields.io/badge/ModelSim-C8102E?style=for-the-badge">
+<img src="https://img.shields.io/badge/Icarus%20Verilog-C8102E?style=for-the-badge">
+<img src="https://img.shields.io/badge/GTKWave-C8102E?style=for-the-badge">
 </td>
 </tr>
+
 <tr>
-<td><b>Productivity & Version Control</b></td>
+<td><b>Soft Skills</b></td>
 <td>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Communication-FF8C00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Leadership-FF8C00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Team%20Work-FF8C00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Adaptability-FF8C00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Time%20Management-FF8C00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Quick%20Learner-FF8C00?style=for-the-badge">
 </td>
 </tr>
+
+</table>
+
+---
+
+## 💼 Internships
+
+<table>
 <tr>
-<td><b>OS</b></td>
-<td>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<td width="50%" valign="top">
+
+**Hardware Testing — VI Microsystems, Chennai**
+*Jan 2026 – Apr 2026*
+- Hands-on embedded hardware testing, debugging, automation, and validation
+- Tested and programmed 8051, 8085, 8086, Arduino, ESP32, Raspberry Pi and Pico
+- Validated IoT boards, embedded hardware, sensors, and peripheral interfaces
+
+**C Programming (Virtual) — CodeAlpha**
+*Oct 2025 – Nov 2025*
+- Core and advanced C programming concepts
+- Data types, control statements, functions, arrays, pointers, strings, structures, file handling, dynamic memory allocation
+- Designed multiple console-based applications using modular programming
+
+</td>
+<td width="50%" valign="top">
+
+**Embedded Systems — NSIC, Chennai**
+*Jul 2025 – Aug 2025*
+- Implemented sensor interfacing using ADC and GPIO
+- Worked with UART, SPI, and I²C protocols for device communication
+- Performed debugging and troubleshooting of embedded systems
+
+**Embedded Systems Intern — RETECH Solutions**
+*Aug 2024*
+- Worked with microcontrollers, sensors, and interfacing techniques
+- Built a Traffic Light Controller using Arduino Uno
+
 </td>
 </tr>
 </table>
 
 ---
 
-### 04 — PROFESSIONAL EXPERIENCE
+## 🛠 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-**VI Microsystems — Chennai**
-*Hardware Testing · Jan 2026 – Apr 2026*
-- Embedded hardware testing, debugging, automation and validation
-- Programming/testing with 8051, 8085, 8086, Arduino, ESP32, Raspberry Pi and Pico
-- Validation of IoT boards, sensors and peripheral interfaces
-
-**CodeAlpha — Virtual**
-*C Programming · Oct 2025 – Nov 2025*
-- Core and advanced C programming
-- Data types, control flow, functions, arrays, pointers and strings
-- Structures, file handling and dynamic memory allocation
-- Modular console-based applications
-
-</td>
-<td width="50%" valign="top">
-
-**NSIC — Chennai**
-*Embedded Systems · Jul 2025 – Aug 2025*
-- ADC and GPIO sensor interfacing
-- UART, SPI and I²C communication
-- Embedded debugging and troubleshooting
-
-**RETECH Solutions**
-*Embedded Systems Intern · Aug 2024*
-- Microcontrollers and sensor interfacing
-- Developed a Traffic Light Controller using Arduino Uno
-
-</td>
-</tr>
-</table>
-
----
-
-### 05 — SELECTED ENGINEERING PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🦯 Smart Guide System for Visually Impaired**
-*Embedded / Assistive Technology*
-- Assistive navigation system using Raspberry Pi Zero 2W
-- Sensor interfacing
-- UART, SPI and I²C device communication
-- Embedded debugging and troubleshooting
 
 **🌱 IoT Smart Agriculture System**
-*IoT / ESP32*
-- Soil moisture, temperature and humidity monitoring
-- Real-time sensor data collection using ESP32
-- Automated irrigation
-- Improved water management based on soil conditions
+- Monitored soil moisture, temperature, humidity, and environmental conditions
+- Collected and displayed real-time sensor data using ESP32
+- Enabled automated irrigation and improved water management
 
 **🧪 Smart Soil Nutrition Monitoring System**
-*IoT / Agricultural Monitoring*
-- Monitored NPK, moisture, temperature and pH
-- Real-time sensor data collection using ESP32
-- Soil health monitoring
-- Efficient fertilizer management
+- Monitored NPK, moisture, temperature, and pH
+- Real-time data collection using sensors and ESP32
+- Enabled efficient fertilizer management and soil health monitoring
+
+**🦯 Smart Guide System for Visually Impaired**
+- Assistive navigation system using Raspberry Pi Zero 2W
+- Sensor interfacing using ADC and GPIO
+- Device communication via UART, SPI, and I²C
 
 **🤖 Colour Based Product Sorting Robot**
-*Computer Vision / Embedded Control*
-- Camera-based product colour detection
-- Automated product classification
-- Sorting mechanism controlled using Raspberry Pi Pico W
+- Automated sorting robot with camera-based colour detection
+- Sorting mechanism controlled by Raspberry Pi Pico W
+- Automated product classification for efficient sorting
 
 </td>
 <td width="50%" valign="top">
-
-**➕ Parameterized 4-bit ALU**
-*Verilog HDL / RTL / FPGA*
-- Parameterized 4-bit ALU architecture
-- Arithmetic and logical operations
-- Verilog testbench and functional simulation
-- Synthesized and implemented on AMD Artix-7 FPGA using Vivado
-
-**🚦 Traffic Light Controller**
-*FSM / Verilog HDL / FPGA*
-- FSM-based traffic signal sequencing
-- Synchronous sequential RTL
-- Simulation and state-transition verification
-- Implemented on Xilinx Spartan-6 using Xilinx ISE
 
 **❤️ Smart Patient Health Monitoring System**
-*ESP32 / Embedded Systems*
-- Real-time vital-sign monitoring
-- I²C, 1-Wire and Analog interfaces
-- Sensor integration
-- Embedded debugging, testing and hardware validation
+- Built using ESP32 with I²C, 1-Wire, and Analog interfaces
+- Integrated vital-sign sensors for real-time monitoring
+- Embedded debugging, testing, and hardware validation
+
+**➕ Parameterized 4-bit ALU (Verilog)**
+- Parameterized 4-bit ALU for scalable RTL design
+- Verified via Verilog testbenches and functional simulation
+- Synthesized and implemented on AMD Artix-7 FPGA using Vivado
+
+**🚦 Traffic Light Controller (FSM)**
+- FSM-based traffic signal sequencing using Verilog HDL
+- Synchronous sequential RTL design
+- Implemented on Xilinx Spartan-6 FPGA using Xilinx ISE
 
 </td>
 </tr>
@@ -238,39 +208,17 @@ SRI International Matriculation HSS, Birudur
 
 ---
 
-### 06 — CERTIFICATIONS
+## 🏅 Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-- System Design Through Verilog — NPTEL · Elite + Silver Medal
-- Embedded Systems Design — NPTEL · Elite Medal
-- Embedded Systems Using C — EDUCBA, Coursera · 86.74%
-
-</td>
-<td width="50%" valign="top">
-
-- Introduction to Internet of Things and Embedded Systems — University of California, Coursera · 99%
-- Softskill Training on Interview Readiness — NPTEL
-
-</td>
-</tr>
-</table>
+- **System Design Through Verilog** — NPTEL · Elite + Silver Medal
+- **Embedded Systems Design** — NPTEL · Elite Medal
+- **Embedded Systems Using C** — EDUCBA, Coursera · 86.74%
+- **Introduction to Internet of Things and Embedded Systems** — University of California, Coursera · 99%
+- **Softskill Training on Interview Readiness** — NPTEL
 
 ---
 
-### 07 — ENGINEERING FOCUS
-
-<div align="center">
-
-`Embedded` `VLSI / RTL` `C / C++` `Verilog HDL` `Microcontrollers` `RTL Design` `Sensors & Actuators` `FPGA` `UART / SPI / I²C / CAN` `APB / AHB / AXI` `Firmware` `Simulation & Synthesis` `Testing & Debugging` `UVM`
-
-</div>
-
----
-
-### 08 — GITHUB ACTIVITY
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -281,38 +229,21 @@ SRI International Matriculation HSS, Birudur
 
 <img src="https://streak-stats.demolab.com?user=Sakthimurugan-V&theme=github-dark&hide_border=true">
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Sakthimurugan-V&label=PROFILE%20VIEWS&style=for-the-badge">
-
 </div>
 
 ---
 
-### 09 — CONNECT
+## 📞 Contact
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sakthimurugan-v/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-&nbsp;
-<a href="https://github.com/Sakthimurugan-V">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="mailto:sakthimuruganvenkat@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<a href="tel:+919789378758"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=phone&logoColor=white"></a>
+<a href="mailto:sakthimuruganvenkat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/sakthimurugan-v/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Sakthimurugan-V"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <br><br>
 
-*Open to learning, building and contributing in Embedded Systems & VLSI.*
-
-</div>
-
-<div align="center">
-
-**EMBEDDED SYSTEMS · FIRMWARE · VLSI · RTL DESIGN · FPGA · IoT**
+*Open to opportunities in Embedded Systems & VLSI — always learning, building, and contributing.*
 
 </div>
