@@ -218,16 +218,6 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 
 ---
 
-📊 GitHub Activity
-
-<div align="center"> 
-  
-<img src="https://github-view-counter.vercel.app/api?username=Sakthimurugan-V&label=PROFILE%20VIEWS&color=00D26A&bg_color=0D1117&text_color=FFFFFF&border_color=30363D" alt="Profile Views" /> 
-
-</div>
-
----
-
 ## 📞 Contact
 
 <div align="center">
