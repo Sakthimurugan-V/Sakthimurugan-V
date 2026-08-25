@@ -222,13 +222,16 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=Sakthimurugan-V&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Sakthimurugan-V&theme=github-dark&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=Sakthimurugan-V&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
 </div>
 
 ---
+
 
 ## 📞 Contact
 
