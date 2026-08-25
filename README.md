@@ -222,9 +222,6 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sakthimurugan-V&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakthimurugan-V&layout=compact&theme=github_dark&hide_border=true" height="170">
-
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=Sakthimurugan-V&theme=github-dark&hide_border=true">
