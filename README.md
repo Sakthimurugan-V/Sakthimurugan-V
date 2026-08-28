@@ -63,6 +63,7 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 <img src="https://img.shields.io/badge/Microcontrollers-4B5563?style=for-the-badge">
 <img src="https://img.shields.io/badge/Firmware%20Development-4B5563?style=for-the-badge">
 <img src="https://img.shields.io/badge/Bit Manipulation-4B5563?style=for-the-badge">
+<img src="https://img.shields.io/badge/Linux-4B5563?style=for-the-badge">
 <img src="https://img.shields.io/badge/IoT-4B5563?style=for-the-badge">
 </td>
 </tr>
