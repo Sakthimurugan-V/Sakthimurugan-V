@@ -32,8 +32,8 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 | Degree | Institution | Duration | Score |
 |---|---|---|---|
 | B.E. Electronics & Communication Engineering | Adhiparasakthi Engineering College, Melmaruvathur | 2022 – 2026 | CGPA: 8.5 |
-| HSC | SRI International Matriculation HSS, Birudur | 2021 – 2022 | 85.5% |
-| SSLC | SRI International Matriculation HSS, Birudur | 2019 – 2020 | 91.4% |
+| HSC | SRI International Matriculation Higher Secondary School, Birudur | 2021 – 2022 | 85.5% |
+| SSLC | SRI International Matriculation Higher Secondary School, Birudur | 2019 – 2020 | 91.4% |
 
 ---
 
@@ -62,6 +62,7 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 <img src="https://img.shields.io/badge/CAN-4B5563?style=for-the-badge">
 <img src="https://img.shields.io/badge/Microcontrollers-4B5563?style=for-the-badge">
 <img src="https://img.shields.io/badge/Firmware%20Development-4B5563?style=for-the-badge">
+<img src="https://img.shields.io/badge/Bit Manipulation-4B5563?style=for-the-badge">
 <img src="https://img.shields.io/badge/IoT-4B5563?style=for-the-badge">
 </td>
 </tr>
