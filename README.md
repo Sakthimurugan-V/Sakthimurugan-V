@@ -86,7 +86,7 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
-<img src="https://img.shields.io/badge/FPGA%20%7C%20Spartan--3%20%7C%20Spartan--6%20%7C%20Artix--7-333333?style=for-the-badge">
+<img src="https://img.shields.io/badge/FPGA%20%7C%20Spartan--3%20%7C%20Spartan--6%20%7C%20Artix--7-2E8B57?style=for-the-badge">
 <img src="https://img.shields.io/badge/8051%20%2F%208085%20%2F%208086-333333?style=for-the-badge">
 </td>
 </tr>
