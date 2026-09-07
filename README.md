@@ -196,7 +196,7 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 - Embedded debugging, testing, and hardware validation
 
 **➕ Parameterized Arithmetic Logic Unit (Verilog)**
-- Parameterized ALU for scalable RTL design
+- Parameterized Arithmetic Logic Unit for scalable RTL design
 - Verified via Verilog testbenches and functional simulation
 - Synthesized and implemented on AMD Artix-7 FPGA using Vivado
 
