@@ -167,9 +167,9 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 
 <table>
 <tr>
-## Embedded Systems
 <td width="50%" valign="top">
-
+## Embedded Systems
+  
 **🌱 IoT Smart Agriculture System**
 - Monitored soil moisture, temperature, humidity, and environmental conditions
 - Collected and displayed real-time sensor data using ESP32
@@ -195,9 +195,9 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 - Integrated vital-sign sensors for real-time monitoring
 - Embedded debugging, testing, and hardware validation
 
-</td>
-                                                          ## VLSI
+</td>                                                       
 <td width="50%" valign="top">
+ ## VLSI
 
 **🔄 Parameterized Asynchronous FIFO with CDC**
 - Designed asynchronous FIFO with independent read/write clocks.
