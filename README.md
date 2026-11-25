@@ -102,8 +102,7 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 <img src="https://img.shields.io/badge/Xilinx%20Vivado-C8102E?style=for-the-badge">
 <img src="https://img.shields.io/badge/Xilinx%20ISE-C8102E?style=for-the-badge">
 <img src="https://img.shields.io/badge/ModelSim-C8102E?style=for-the-badge">
-<img src="https://img.shields.io/badge/Quartus%20Prime-C8102E?style=for-the-badge">
-<img src="https://img.shields.io/badge/GTKWave-C8102E?style=for-the-badge">
+<img src="https://img.shields.io/badge/Intel%20Quartus%20Prime-C8102E?style=for-the-badge">
 </td>
 </tr>
 
