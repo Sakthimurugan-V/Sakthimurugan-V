@@ -48,7 +48,8 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Verilog%20HDL-2E8B57?style=for-the-badge">
+<img src="https://img.shields.io/badge/VerilogL-2E8B57?style=for-the-badge">
+<img src="https://img.shields.io/badge/System Verilog-2E8B57?style=for-the-badge">
 </td>
 </tr>
 
@@ -71,6 +72,8 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 <tr>
 <td><b>VLSI / RTL</b></td>
 <td>
+<img src="https://img.shields.io/badge/Digital%20Electronics-8A2BE2?style=for-the-badge">
+<img src="https://img.shields.io/badge/CMOS%20Fundamentals-8A2BE2?style=for-the-badge">
 <img src="https://img.shields.io/badge/RTL%20Design-8A2BE2?style=for-the-badge">
 <img src="https://img.shields.io/badge/FPGA-8A2BE2?style=for-the-badge">
 <img src="https://img.shields.io/badge/ASIC-8A2BE2?style=for-the-badge">
@@ -186,14 +189,24 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 - Sorting mechanism controlled by Raspberry Pi Pico W
 - Automated product classification for efficient sorting
 
-</td>
-<td width="50%" valign="top">
-
 **❤️ Smart Patient Health Monitoring System**
 - Built using ESP32 with I²C, 1-Wire, and Analog interfaces
 - Integrated vital-sign sensors for real-time monitoring
 - Embedded debugging, testing, and hardware validation
 
+</td>
+<td width="50%" valign="top">
+
+**🔄 Parameterized Asynchronous FIFO with CDC**
+- Designed asynchronous FIFO with independent read/write clocks.
+- Implemented Gray-code pointers, synchronizers, and full/empty detection.
+- Verified data integrity and pointer wraparound using SystemVerilog testbench.
+
+**🚌 AMBA APB4-Based Multi-Peripheral Subsystem**
+- Integrated GPIO, Timer, UART, and Interrupt Controller using APB4.
+- Implemented address decoding, register access, byte strobes, and wait states.
+- Verified peripheral operations using a self-checking SystemVerilog testbench.
+  
 **➕ Parameterized Arithmetic Logic Unit (Verilog)**
 - Parameterized Arithmetic Logic Unit for scalable RTL design
 - Verified via Verilog testbenches and functional simulation
