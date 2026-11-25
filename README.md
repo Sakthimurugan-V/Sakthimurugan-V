@@ -167,7 +167,7 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 
 <table>
 <tr>
-<td><b>Embedded Systems</b></td>
+## Embedded Systems
 <td width="50%" valign="top">
 
 **🌱 IoT Smart Agriculture System**
@@ -196,7 +196,7 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 - Embedded debugging, testing, and hardware validation
 
 </td>
-<td><b>VLSI</b></td>
+## VLSI
 <td width="50%" valign="top">
 
 **🔄 Parameterized Asynchronous FIFO with CDC**
