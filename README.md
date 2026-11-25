@@ -196,7 +196,7 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 - Embedded debugging, testing, and hardware validation
 
 </td>
-## VLSI
+                                                          ## VLSI
 <td width="50%" valign="top">
 
 **🔄 Parameterized Asynchronous FIFO with CDC**
