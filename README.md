@@ -168,8 +168,9 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 <table>
 <tr>
 <td width="50%" valign="top">
----
-## Embedded Systems
+-----------------
+Embedded Systems
+-----------------
   
 **🌱 IoT Smart Agriculture System**
 - Monitored soil moisture, temperature, humidity, and environmental conditions
@@ -198,8 +199,9 @@ An enthusiastic, proactive, and lifelong learner with a solid foundation in **Em
 
 </td>                                                       
 <td width="50%" valign="top">
----
- ## VLSI
+-----------------
+ VLSI
+-----------------
 
 **🔄 Parameterized Asynchronous FIFO with CDC**
 - Designed asynchronous FIFO with independent read/write clocks.
